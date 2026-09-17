@@ -46,14 +46,14 @@ Designer e Desenvolvedor com foco em criar interfaces de alto impacto, experiên
 
 ---
 
-### 📊 Estatísticas & Atividade
+### 📊 Atividade & Métricas
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=andrewschirrmeister&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=andrewschirrmeister&theme=tokyonight&hide_border=true&background=0d1117" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=andrewschirrmeister&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
+  <img src="https://repobeats.axiom.co/vendors/flat/github/andrewschirrmeister/andrewschirrmeister/trending-weekly?svg=true" />
 </div>
