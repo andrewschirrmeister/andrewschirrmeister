@@ -46,15 +46,14 @@ Designer e Desenvolvedor com foco em criar interfaces de alto impacto, experiên
 
 ---
 
-### 📊 Estatísticas
+### 📊 Estatísticas & Atividade
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=andrewschirrmeister&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andrewschirrmeister&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-profile-trophy.vercel.app/?username=andrewschirrmeister&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=100&section=footer" width="100%"/>
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=andrewschirrmeister&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
 </div>
