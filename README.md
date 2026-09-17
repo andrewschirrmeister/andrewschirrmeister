@@ -6,6 +6,7 @@
   <a href="https://andrewschirrmeister.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/PORTFÓLIO-00df89?style=for-the-badge&logo=vercel&logoColor=000&labelColor=000" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/andrewschirrmeister/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000" />
   </a>
