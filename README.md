@@ -4,51 +4,51 @@
 
 <div align="center">
   <a href="https://andrewschirrmeister.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfólio_Live-000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/PORTFÓLIO-00df89?style=for-the-badge&logo=vercel&logoColor=000&labelColor=000" />
   </a>
   <a href="https://www.linkedin.com/in/andrewschirrmeister/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000" />
   </a>
 </div>
 
 <br/>
 
-### ⚡ Sobre Mim
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00DF89&center=true&vCenter=true&multiline=false&width=550&height=45&lines=Transformando+ideias+em+interfaces+de+alta+performance;Especialista+em+UI%2FUX%2C+Front-End+e+Mobile;Design+Systems+%26+Arquiteturas+Escal%C3%A1veis" alt="Typing SVG" />
+</div>
 
-Designer e Desenvolvedor com foco em criar interfaces de alto impacto, experiências intuitivas e arquiteturas robustas. Atuo na convergência entre estética visual refinada, design de produto e código performático.
+<br/>
 
-* 🚀 Focado em desenvolvimento front-end moderno, mobile e ecossistema POS/Fintech.
-* 🎨 Criação de Design Systems, prototipagem avançada e identidades visuais completas.
+### ⚡ System Overview
+
+Designer e Desenvolvedor com foco na convergência entre estética visual refinada, design de produto e engenharia front-end/mobile.
+
+* 🚀 Focado em desenvolvimento front-end moderno, ecossistema mobile e aplicações POS/Fintech.
+* 🎨 Criação de Design Systems completos, microinterações e prototipagem de alta fidelidade.
 * 📍 São Paulo, Brasil.
 
 ---
 
-### 🛠️ Stack & Ferramentas
+### 🛠️ Tech Stack & Architecture
 
-**Design & Creative Suite**  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
-
-**Front-End & Mobile**  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Backend & Infra**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,blender,flutter,kotlin,ts,react,nodejs,firebase,vercel&perline=6&theme=dark" />
+  </a>
+</div>
 
 ---
 
-### 📊 Atividade & Métricas
+### 📊 System Metrics & Activity
 
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=andrewschirrmeister&theme=tokyonight&hide_border=true&background=0d1117" />
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=andrewschirrmeister&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <!-- GitHub Metrics em SVG estático sem dependência de scraping -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=andrewschirrmeister&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true&hide_rank=true" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=andrewschirrmeister&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=100&section=footer" width="100%"/>
 </div>
