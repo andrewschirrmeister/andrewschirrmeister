@@ -14,7 +14,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00DF89&center=true&vCenter=true&multiline=false&width=550&height=45&lines=Transformando+ideias+em+interfaces+de+alta+performance;Especialista+em+UI%2FUX%2C+Front-End+e+Mobile;Design+Systems+%26+Arquiteturas+Escal%C3%A1veis" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00DF89&center=true&vCenter=true&multiline=false&width=850&height=45&lines=Transformando+ideias+em+interfaces+de+alta+performance;Especialista+em+UI%2FUX%2C+Front-End+e+Mobile;Design+Systems+%26+Arquiteturas+Escal%C3%A1veis" alt="Typing SVG" />
 </div>
 
 <br/>
