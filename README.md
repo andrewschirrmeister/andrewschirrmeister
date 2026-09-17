@@ -50,10 +50,5 @@ Designer e Desenvolvedor com foco em criar interfaces de alto impacto, experiên
 
 <div align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=andrewschirrmeister&theme=tokyonight&hide_border=true&background=0d1117" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://repobeats.axiom.co/vendors/flat/github/andrewschirrmeister/andrewschirrmeister/trending-weekly?svg=true" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=andrewschirrmeister&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </div>
