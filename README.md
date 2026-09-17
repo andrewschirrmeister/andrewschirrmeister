@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=200&section=header&text=Andrew%20Schirrmeister&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=UI%2FUX%20Designer%20%7C%20Front-End%20%26%20Mobile%20Developer&descSize=18&descAlignY=68" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=200&section=header&text=Andrew%20Schirrmeister&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=UI%2FUX%20Designer%20%7C%20Front-End%20and%20Mobile%20Developer&descSize=18&descAlignY=68" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://andrewschirrmeister.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfólio_Live-000?style=for-the-badge&logo=vercel&logoColor=white&borderColor=00df89" />
+    <img src="https://img.shields.io/badge/🌐_Portfólio_Live-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/andrewschirrmeister/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -49,8 +49,8 @@ Designer e Desenvolvedor com foco em criar interfaces de alto impacto, experiên
 ### 📊 Estatísticas
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andrewschirrmeister&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewschirrmeister&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=andrewschirrmeister&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andrewschirrmeister&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </div>
 
 <br/>
